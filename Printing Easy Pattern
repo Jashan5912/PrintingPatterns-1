@@ -1,3 +1,11 @@
+To Print Pattern :-
+		    *  *  *  *  * 
+	            *  *  *  *  * 
+		    *  *  *  *  * 
+		    *  *  *  *  * 
+		    *  *  *  *  * 
+
+
 package introduction;
 
 import java.util.Scanner;
